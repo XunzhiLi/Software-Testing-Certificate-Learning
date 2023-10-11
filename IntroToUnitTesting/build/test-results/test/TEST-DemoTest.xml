@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DemoTest" tests="21" skipped="0" failures="0" errors="0" timestamp="2023-10-05T04:57:21" hostname="bestxunzhi" time="0.019">
+  <properties/>
+  <testcase name="testMain" classname="DemoTest" time="0.011"/>
+  <testcase name="testIsNOTTriangle10" classname="DemoTest" time="0.0"/>
+  <testcase name="testIsNOTTriangle11" classname="DemoTest" time="0.0"/>
+  <testcase name="testIsNOTTriangle12" classname="DemoTest" time="0.0"/>
+  <testcase name="testIsNOTTriangle13" classname="DemoTest" time="0.0"/>
+  <testcase name="testIsTriangle1" classname="DemoTest" time="0.001"/>
+  <testcase name="testIsTriangle2" classname="DemoTest" time="0.0"/>
+  <testcase name="testIsTriangle3" classname="DemoTest" time="0.0"/>
+  <testcase name="testIsTriangle4" classname="DemoTest" time="0.0"/>
+  <testcase name="testIsTriangle5" classname="DemoTest" time="0.0"/>
+  <testcase name="testIsTriangle6" classname="DemoTest" time="0.0"/>
+  <testcase name="testIsTriangle7" classname="DemoTest" time="0.0"/>
+  <testcase name="testIsNOTTriangle2" classname="DemoTest" time="0.0"/>
+  <testcase name="testIsNOTTriangle3" classname="DemoTest" time="0.0"/>
+  <testcase name="testIsNOTTriangle4" classname="DemoTest" time="0.0"/>
+  <testcase name="testIsNOTTriangle5" classname="DemoTest" time="0.001"/>
+  <testcase name="testIsNOTTriangle6" classname="DemoTest" time="0.0"/>
+  <testcase name="testIsNOTTriangle7" classname="DemoTest" time="0.0"/>
+  <testcase name="testIsNOTTriangle8" classname="DemoTest" time="0.0"/>
+  <testcase name="testIsNOTTriangle9" classname="DemoTest" time="0.0"/>
+  <testcase name="testIsNotTriangle1" classname="DemoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
